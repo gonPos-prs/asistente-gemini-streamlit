@@ -17,7 +17,7 @@ st.caption("UAdeO • Materia: Sistemas Inteligentes • Dra. Aiblis Susej Herre
 
 # Un solo lugar para definir el modelo: evita que las distintas secciones queden
 # usando versiones distintas entre si.
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.5-flash-lite"
 
 # ==============================================================================
 # 2. GESTIÓN SEGURA DE LA API KEY (LOCAL Y STREAMLIT CLOUD)
